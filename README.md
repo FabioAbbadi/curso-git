@@ -1,2 +1,2 @@
-# curso-git
+# curso-git-github
 Teste curso git
