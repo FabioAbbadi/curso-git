@@ -9,7 +9,6 @@ function adiciona(){
     let entrada = document.getElementById('mostrarNome');
 
     entrada.innerHTML = nome.value;
-
     
     console.log(entrada);
 
